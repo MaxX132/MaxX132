@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Max
+- 👋 Hi, I’m d0t
 - 👀 I’m interested in coding videogame cheats
-- 🌱 I’m currently learning c#
 - 📫 Discord: d0t#4007
 
 <!---
