@@ -1,6 +1,6 @@
 python dev
 
-Discord: d0t#4007
+Discord: 0x#3549
 
 <!---
 MaxX132/MaxX132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
