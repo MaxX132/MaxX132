@@ -1,6 +1,7 @@
 python dev
+in progress of learning html/css/js
 
-Discord: 0x#3549
+Discord: dotmaxx
 
 <!---
 MaxX132/MaxX132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
