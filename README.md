@@ -1,6 +1,6 @@
 python dev
   
-in progress of learning html/css/js
+in progress of learning c++
 
 Discord: dotmaxx
 
